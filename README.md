@@ -34,10 +34,10 @@ The proposed strategy is compared against several benchmark models:
 The following plots illustrate the performance of the proposed model compared to the state-of-the-art methods, highlighting improvements in terms of **click-through rate (CTR)**, **win-rate**, and **budget utilization**:
 
 1. **Total Number of Clicks**:
-   ![Total Number of Clicks Comparison](path_to_image_1)
+   ![Total Number of Clicks Comparison](plots/new_ipinyou_N=1000_c0=0.0625_obj=clk_clkvp=1_click_all.jpg)
 
 2. **Win-Rate Comparison**:
-   ![Win-Rate Comparison](path_to_image_2)
+   ![Win-Rate Comparison](plots/new_ipinyou_N=1000_c0=0.0625_obj=clk_clkvp=1_win_rate_all.jpg)
 
 3. **Cost Per Mile (CPM) Analysis**:
    ![CPM Comparison](path_to_image_3)
