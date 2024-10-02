@@ -69,4 +69,4 @@ If you use this code in your research, please cite the following paper:
 - Keykhosro Khosravani, Sharif University of Technology
 - Maryam Babazadeh, Sharif University of Technology
 
-For more details, feel free to check the [PDF of the paper]([link_to_pdf](https://ieeexplore.ieee.org/document/10334752/metrics#metrics)) 
+For more details, feel free to check the [PDF of the paper](https://ieeexplore.ieee.org/document/10334752/metrics#metrics) 
