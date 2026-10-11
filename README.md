@@ -55,13 +55,16 @@ These plots show that our approach not only maximizes the total number of user c
 If you use this code in your research, please cite the following paper:
 
 ```
-@inproceedings{afzali2023optimal,
-  title={Optimal Bidding Strategy with Smooth Budget Delivery in Online Advertising},
+@INPROCEEDINGS{10334752,
   author={Afzali, Mohammad and Khosravani, Keykhosro and Babazadeh, Maryam},
-  booktitle={Proceedings of the 31st International Conference on Electrical Engineering (ICEE)},
+  booktitle={2023 31st International Conference on Electrical Engineering (ICEE)}, 
+  title={Optimal Bidding Strategy with Smooth Budget Delivery in Online Advertising}, 
   year={2023},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={315-321},
+  keywords={Industries;Simulation;Optimal control;Reinforcement learning;Markov processes;Real-time systems;Mathematical models;Optimal Control;Dynamic Programming;Real-time Bidding;Reinforcement Learning},
+  doi={10.1109/ICEE59167.2023.10334752}}
 ```
 
 ## Authors
